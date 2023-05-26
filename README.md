@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm rtarun9!</h1>
 
-<!--
-**rtarun9/rtarun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Helios (A C++/DirectX12 renderer)](https://github.com/rtarun9/Helios)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C++20, GPU Programming, DirectX12**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://rtarun9.github.io/](https://rtarun9.github.io/)
+
+- 📝 I regularly write articles on [https://rtarun9.github.io/blogs](https://rtarun9.github.io/blogs)
+
+- 💬 Ask me about **CG, Low level GPU api's, Operating Systems, Data structures and Algorithms**
+
+- 📫 How to reach me **https://www.linkedin.com/in/tarun-ramaswamy-931426200/**
+
