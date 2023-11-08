@@ -8,5 +8,3 @@
 
 - 💬 Ask me about **CG, Low level GPU api's, Operating Systems, Data structures and Algorithms**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tarun-ramaswamy-931426200/**
-
