@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm rtarun9!</h1>
 
-- 🔭 I’m currently working on [serenity-engine (A WIP Game engine)](https://github.com/rtarun9/serenity-engine)
+- 🔭 I’m currently working on [voxel-engine](https://github.com/rtarun9/voxel-engine) 
 
-- 🌱 I’m currently learning **C++20, GPU Programming, DirectX12**
+- 🌱 I’m currently learning **C++20, GPU Programming (Cuda), DirectX12**
 
 - 📝 I sometimes write articles on [https://rtarun9.github.io/blogs](https://rtarun9.github.io/blogs)
 
